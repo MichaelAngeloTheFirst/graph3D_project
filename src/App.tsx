@@ -34,7 +34,7 @@ function App() {
         <Questionmark
           gltfObject={
             <Gltf
-              src=".https://grafproj.s3.eu-central-1.amazonaws.com/assets/dot.glb"
+              src="https://grafproj.s3.eu-central-1.amazonaws.com/assets/dot.glb"
               position={[0, -2, 0]}
               receiveShadow
               castShadow
